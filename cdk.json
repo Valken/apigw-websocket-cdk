@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project ApiGwWebSocket/ApiGwWebSocket.csproj",
+  "app": "dotnet run --project ApiGwWebSocket.Cdk/ApiGwWebSocket.Cdk.csproj",
   "watch": {
     "include": [
       "**"

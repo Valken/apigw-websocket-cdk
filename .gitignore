@@ -2,6 +2,10 @@
 .cdk.staging
 cdk.out
 
+# Mac junk 
+
+.DS_Store
+
 # Created by https://www.gitignore.io/api/csharp
 
 ### Csharp ###
